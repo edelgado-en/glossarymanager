@@ -1,0 +1,2 @@
+# glossarymanager
+Glossary Manager App
